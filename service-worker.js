@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/voice-and-keyboard-snake-game/precache-manifest.a761c7cecefe937562a6f38e455ae544.js"
+  "/voice-and-keyboard-snake-game/precache-manifest.435e188aad913b07a3be2e698157a312.js"
 );
 
 self.addEventListener('message', (event) => {
