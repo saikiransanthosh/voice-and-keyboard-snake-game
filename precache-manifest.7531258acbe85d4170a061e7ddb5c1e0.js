@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f139b3f2ea7431120a18002f6e0ec3e1",
+    "revision": "6fa038edc768793bfc126673c8bbb8e5",
     "url": "/voice-and-keyboard-snake-game/index.html"
   },
   {
-    "revision": "39588fec13ad35f42315",
-    "url": "/voice-and-keyboard-snake-game/static/css/main.973ed2b2.chunk.css"
+    "revision": "d2f2b31e482b636d58ab",
+    "url": "/voice-and-keyboard-snake-game/static/css/main.6b1675ba.chunk.css"
   },
   {
     "revision": "0a7580e905f71af79358",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voice-and-keyboard-snake-game/static/js/2.f59da94c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "39588fec13ad35f42315",
-    "url": "/voice-and-keyboard-snake-game/static/js/main.26b82ad9.chunk.js"
+    "revision": "d2f2b31e482b636d58ab",
+    "url": "/voice-and-keyboard-snake-game/static/js/main.de729bda.chunk.js"
   },
   {
     "revision": "26619838cb95f949b185",
