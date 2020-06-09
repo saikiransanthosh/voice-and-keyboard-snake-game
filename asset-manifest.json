@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/voice-and-keyboard-snake-game/static/css/main.7dd0a022.chunk.css",
-    "main.js": "/voice-and-keyboard-snake-game/static/js/main.547a06e2.chunk.js",
-    "main.js.map": "/voice-and-keyboard-snake-game/static/js/main.547a06e2.chunk.js.map",
+    "main.css": "/voice-and-keyboard-snake-game/static/css/main.d7861d09.chunk.css",
+    "main.js": "/voice-and-keyboard-snake-game/static/js/main.ed2dd5cc.chunk.js",
+    "main.js.map": "/voice-and-keyboard-snake-game/static/js/main.ed2dd5cc.chunk.js.map",
     "runtime-main.js": "/voice-and-keyboard-snake-game/static/js/runtime-main.2ebb8e54.js",
     "runtime-main.js.map": "/voice-and-keyboard-snake-game/static/js/runtime-main.2ebb8e54.js.map",
     "static/js/2.f59da94c.chunk.js": "/voice-and-keyboard-snake-game/static/js/2.f59da94c.chunk.js",
     "static/js/2.f59da94c.chunk.js.map": "/voice-and-keyboard-snake-game/static/js/2.f59da94c.chunk.js.map",
     "index.html": "/voice-and-keyboard-snake-game/index.html",
-    "precache-manifest.a00e9f439848274526c4d22646547556.js": "/voice-and-keyboard-snake-game/precache-manifest.a00e9f439848274526c4d22646547556.js",
+    "precache-manifest.f1e41a9528d5870c57018ccf1d5fffe4.js": "/voice-and-keyboard-snake-game/precache-manifest.f1e41a9528d5870c57018ccf1d5fffe4.js",
     "service-worker.js": "/voice-and-keyboard-snake-game/service-worker.js",
-    "static/css/main.7dd0a022.chunk.css.map": "/voice-and-keyboard-snake-game/static/css/main.7dd0a022.chunk.css.map",
+    "static/css/main.d7861d09.chunk.css.map": "/voice-and-keyboard-snake-game/static/css/main.d7861d09.chunk.css.map",
     "static/js/2.f59da94c.chunk.js.LICENSE.txt": "/voice-and-keyboard-snake-game/static/js/2.f59da94c.chunk.js.LICENSE.txt",
     "static/media/index.css": "/voice-and-keyboard-snake-game/static/media/pacman-black.0178e5fd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2ebb8e54.js",
     "static/js/2.f59da94c.chunk.js",
-    "static/css/main.7dd0a022.chunk.css",
-    "static/js/main.547a06e2.chunk.js"
+    "static/css/main.d7861d09.chunk.css",
+    "static/js/main.ed2dd5cc.chunk.js"
   ]
 }
