@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/voice-and-keyboard-snake-game/static/css/main.973ed2b2.chunk.css",
-    "main.js": "/voice-and-keyboard-snake-game/static/js/main.de729bda.chunk.js",
-    "main.js.map": "/voice-and-keyboard-snake-game/static/js/main.de729bda.chunk.js.map",
+    "main.js": "/voice-and-keyboard-snake-game/static/js/main.26b82ad9.chunk.js",
+    "main.js.map": "/voice-and-keyboard-snake-game/static/js/main.26b82ad9.chunk.js.map",
     "runtime-main.js": "/voice-and-keyboard-snake-game/static/js/runtime-main.2ebb8e54.js",
     "runtime-main.js.map": "/voice-and-keyboard-snake-game/static/js/runtime-main.2ebb8e54.js.map",
     "static/js/2.f59da94c.chunk.js": "/voice-and-keyboard-snake-game/static/js/2.f59da94c.chunk.js",
     "static/js/2.f59da94c.chunk.js.map": "/voice-and-keyboard-snake-game/static/js/2.f59da94c.chunk.js.map",
     "index.html": "/voice-and-keyboard-snake-game/index.html",
-    "precache-manifest.5b3f8606a127f9a809000b8e113dd9da.js": "/voice-and-keyboard-snake-game/precache-manifest.5b3f8606a127f9a809000b8e113dd9da.js",
+    "precache-manifest.74abda4e242c0108ee5ae9d97dd2d45e.js": "/voice-and-keyboard-snake-game/precache-manifest.74abda4e242c0108ee5ae9d97dd2d45e.js",
     "service-worker.js": "/voice-and-keyboard-snake-game/service-worker.js",
     "static/css/main.973ed2b2.chunk.css.map": "/voice-and-keyboard-snake-game/static/css/main.973ed2b2.chunk.css.map",
     "static/js/2.f59da94c.chunk.js.LICENSE.txt": "/voice-and-keyboard-snake-game/static/js/2.f59da94c.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.2ebb8e54.js",
     "static/js/2.f59da94c.chunk.js",
     "static/css/main.973ed2b2.chunk.css",
-    "static/js/main.de729bda.chunk.js"
+    "static/js/main.26b82ad9.chunk.js"
   ]
 }
